@@ -1,5 +1,5 @@
 # AlchemyCMS Cloudinary Integration
-
+Supports AlchemyCMS 6
 Cloudinary is a cloud service that offers a solution to a web application's entire image management pipeline.
 
 * Easily upload images to the cloud.
@@ -13,7 +13,7 @@ Cloudinary is a cloud service that offers a solution to a web application's enti
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'alchemy_cloudinary', github: 'AlchemyCMS/alchemy_cloudinary'
+gem 'alchemy_cloudinary', github: 'Cevan5/Alchemycms-Cloudinary'
 ```
 
 And then execute:
